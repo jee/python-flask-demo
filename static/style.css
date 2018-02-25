@@ -1,0 +1,11 @@
+/* Application wide
+-------------------- */
+section {
+  min-height: 100vh;
+}
+
+/* Utility Helpers
+-------------------- */
+.shade {
+  background: rgba(0, 0, 0, 0.5);
+}
